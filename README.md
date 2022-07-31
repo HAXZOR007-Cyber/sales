@@ -1,4 +1,4 @@
-#Semoga dapet ijo Jangan lupa follow github aku ya 
+# Semoga dapet ijo Jangan lupa follow github aku ya 
 
 ```bash
 pkg update && pkg upgrade
